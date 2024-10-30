@@ -1,0 +1,9 @@
+SISTEMA DE RESERVAS
+
+Lenguaje de programacion: java
+Gestor de base de datos: MySql
+Nombre de BD: reserva
+
+Librerias:
+- mysql-connector-j (version 8.2.0)
+- jcalendar (version 1.4)
